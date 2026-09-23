@@ -16,8 +16,9 @@ Proceso ETL en PostgreSQL + Python para el caso de estudio "Gaseosas Poderosas":
 │   ├── script-base-datos-regiones.sql        # Tabla regiones + campo id_region
 │   ├── script-limpieza-transformacion.sql    # Limpieza de los 30 registros con errores
 │   └── consultas/                            # Las 6 consultas SQL pedidas (q7.1 a q7.6)
-├── bigdata-et0155-tarea-ETL-v2-informe-equipo_8.docx
-└── bigdata-et0155-tarea-ETL-v2-graficos-equipo_8.xlsx
+├── docs/
+│   ├── bigdata-et0155-tarea-ETL-v2-graficos-equipo_8.xlsx # Gráficos en Excel
+│   └── bigdata-et0155-tarea-ETL-v2-informe-equipo_8.docx # Informe
 ```
 
 ## Cómo correrlo
